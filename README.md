@@ -1,8 +1,12 @@
-<h2 align="center"> Hi there 👋, I am Maksym, Full Stack Software engineer<br/> </h2> 
+<h2 align="center"> Hi there 👋, I am Maksym, Full Stack Software Engineer<br/> </h2> 
 
 ### About me
 I'm an engineer with proven experience (~1.5 y.) in building realtime and low-latency applications with .NET (C#, ASP.NET), along with responsive SPAs with TypeScript and React.js.
-I've hands-on experience with Amazon MSK, DynamoDB, Cognito and such databases as PostgreSql, MongoDB. I've developed microservice-based applications for sportsbook and both frontend and backend for internal CRM.
+
+I've hands-on experience with Amazon MSK, DynamoDB, Cognito and such databases as PostgreSql, MongoDB. 
+
+I've developed microservice-based applications for sportsbook and both frontend and backend for internal CRM.
+
 Passionate about new challenges and knowledge.
 
 ### Github stats
@@ -14,4 +18,6 @@ Passionate about new challenges and knowledge.
 </p>
 
 ### Contact
-You can reach me out on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/proniaiev/)
+You can reach me out on 
+[![Telegram Badge](https://img.shields.io/badge/-a__knv-grey?style=flat&logo=telegram&logoColor=white&link=https://t.me/radioemptiness)](https://t.me/radioemptiness)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/proniaiev/)](https://www.linkedin.com/in/proniaiev)
