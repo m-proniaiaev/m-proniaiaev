@@ -1,13 +1,13 @@
 <h2 align="center"> Hi there 👋, I am Maksym, Full Stack Software Engineer<br/> </h2> 
 
 ### About me
-I'm an engineer with proven experience (over 2 years) in building realtime and low-latency applications with .NET (C#, ASP.NET), along with various SPAs with TypeScript and React.js\Vue.js.
+I'm an engineer with proven experience _(over 2 years)_ in building realtime and low-latency applications with `.NET` _(C#; ASP.NET, SignalR, Web Forms)_, along with various SPAs with JavaScript\TypeScript and `React.js\Vue.js`.
 
-I've hands-on experience with Amazon MSK, Cognito, S3 and such databases as PostgreSql, MongoDB, Sql-Server, DynamoDB
+I've hands-on experience with Amazon's MSK, Lambda, Cognito, S3 and such databases as PostgreSql, MongoDB, Sql-Server, DynamoDB.
 
-I've developed microservice-based applications for sportsbook and both frontend and backend for internal CRMs.
+I've created from scratch, developed and maintained microservice-based applications for sportsbook _(data streaming)_, no-code platform and both frontend and backend for different internal CRMs.
 
-Passionate about new challenges and knowledge.
+Passionate about new challenges and knowledge. `ISTQB`-certified software testing specialist.
 
 ### Github stats
 <p>
