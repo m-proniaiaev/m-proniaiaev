@@ -21,5 +21,4 @@ Passionate about new challenges and knowledge. `ISTQB`-certified software testin
 ### Contact
 You can reach me out on 
 
-[![Telegram Badge](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white&link=https://t.me/radioemptiness)](https://t.me/radioemptiness)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/proniaiev/)](https://www.linkedin.com/in/proniaiev)
