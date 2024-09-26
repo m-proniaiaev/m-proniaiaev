@@ -10,14 +10,6 @@ I've created from scratch _(from "0" to prod)_, developed and maintained microse
 
 Passionate about new challenges and knowledge. `ISTQB`-certified software testing specialist.
 
-### Github stats
-<p>
-<a href="https://gitstats.me/nielemptiness" target="_blank">
-  <img height="180em" alt="Maksym Proniaiev's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nielemptiness&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" alt="Maksym Proniaiev's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nielemptiness&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
-
 ### Contact
 You can reach me out on 
 
